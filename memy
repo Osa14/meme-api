@@ -1,4 +1,5 @@
-{
+[
+    {
       title: 'Mem 1',
       upvotes: '6',
       downvotes: '0',
@@ -34,3 +35,4 @@
       downvotes: '4',
       img: 'https://justjoin.it/blog/wp-content/uploads/2021/08/191748854_2860332700871857_8861298208624190856_n.jpg',
     },
+  ]
