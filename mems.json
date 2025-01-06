@@ -1,73 +1,72 @@
 [
-    {
-      "title": "Mem 1",
-      "upvotes": "6",
-      "downvotes": "0",
-      "isfav": "false",
-      "img": "https://img.obrazkowo.pl/images/7d396894032ecab9719c305f7f519bf8.jpg"
-    },
-    {
-      "title": "Mem 2",
-      "upvotes": "3",
-      "downvotes": "4",
-      "isfav": "false",
-      "img": "https://img.joemonster.org/mg/albums/092024/main_11m_j_twardy_stary.jpg"
-    },
-    {
-      "title": "Mem 3",
-      "upvotes": "7",
-      "downvotes": "1",
-      "isfav": "true",
-      "img": "https://paczaizm.pl/content/wp-content/uploads/w-swieta-najwazniejsze-jest-odkupienie-win-kwasniewski.jpg"
-    },
-    {
-      "title": "Mem 4",
-      "upvotes": "3",
-      "downvotes": "4",
-      "isfav": "false",
-      "img": "https://i.ytimg.com/vi/rtQKP1we-Dk/maxresdefault.jpg"
-    },
-    {
-      "title": "Mem 5",
-      "upvotes": "7",
-      "downvotes": "0",
-      "isfav": "false",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Wikipedia_Meme-pl.png/640px-Wikipedia_Meme-pl.png"
-    },
-    {
-      "title": "Mem 6",
-      "upvotes": "3",
-      "downvotes": "4",
-      "isfav": "true",
-      "img": "https://justjoin.it/blog/wp-content/uploads/2021/08/191748854_2860332700871857_8861298208624190856_n.jpg"
-    },
-    {
-      "title": "Mem 7",
-      "upvotes": "3",
-      "downvotes": "4",
-      "isfav": "false",
-      "img": "https://i1.jbzd.com.pl/contents/2021/08/normal/NvNnbDw13XqRvstrGZgFg6nKQXRI1RnX.jpg"
-    },
-    {
-      "title": "Mem 8",
-      "upvotes": "3",
-      "downvotes": "4",
-      "isfav": "false",
-      "img": "https://i1.jbzd.com.pl/contents/2023/12/normal/atGQrrLHhCnvSjE5SNSpYgR9vyU7yrkO.jpg"
-    },
-    {
-      "title": "Mem 9",
-      "upvotes": "3",
-      "downvotes": "4",
-      "isfav": "true",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRveHJ-00k8d_bW2_MQeTgInZQG2QsPsXN7kQ&s"
-    },
-    {
-      "title": "Mem 10",
-      "upvotes": "3",
-      "downvotes": "4",
-      "isfav": "false",
-      "img": "https://wykop.pl/cdn/c3201142/0c6a13783fb5a049c83d8079029c84c26c5bb702e4e9ed66d10d217103ade833,w800.jpg"
-    }
-  ]
-
+  {
+    "title": "Mem 1",
+    "upvotes": 6,
+    "downvotes": 0,
+    "isfav": false,
+    "img": "https://img.obrazkowo.pl/images/7d396894032ecab9719c305f7f519bf8.jpg"
+  },
+  {
+    "title": "Mem 2",
+    "upvotes": 3,
+    "downvotes": 4,
+    "isfav": false,
+    "img": "https://img.joemonster.org/mg/albums/092024/main_11m_j_twardy_stary.jpg"
+  },
+  {
+    "title": "Mem 3",
+    "upvotes": 7,
+    "downvotes": 1,
+    "isfav": true,
+    "img": "https://paczaizm.pl/content/wp-content/uploads/w-swieta-najwazniejsze-jest-odkupienie-win-kwasniewski.jpg"
+  },
+  {
+    "title": "Mem 4",
+    "upvotes": 3,
+    "downvotes": 4,
+    "isfav": false,
+    "img": "https://i.ytimg.com/vi/rtQKP1we-Dk/maxresdefault.jpg"
+  },
+  {
+    "title": "Mem 5",
+    "upvotes": 7,
+    "downvotes": 0,
+    "isfav": false,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Wikipedia_Meme-pl.png/640px-Wikipedia_Meme-pl.png"
+  },
+  {
+    "title": "Mem 6",
+    "upvotes": 3,
+    "downvotes": 4,
+    "isfav": true,
+    "img": "https://justjoin.it/blog/wp-content/uploads/2021/08/191748854_2860332700871857_8861298208624190856_n.jpg"
+  },
+  {
+    "title": "Mem 7",
+    "upvotes": 3,
+    "downvotes": 4,
+    "isfav": false,
+    "img": "https://i1.jbzd.com.pl/contents/2021/08/normal/NvNnbDw13XqRvstrGZgFg6nKQXRI1RnX.jpg"
+  },
+  {
+    "title": "Mem 8",
+    "upvotes": 3,
+    "downvotes": 4,
+    "isfav": false,
+    "img": "https://i1.jbzd.com.pl/contents/2023/12/normal/atGQrrLHhCnvSjE5SNSpYgR9vyU7yrkO.jpg"
+  },
+  {
+    "title": "Mem 9",
+    "upvotes": 3,
+    "downvotes": 4,
+    "isfav": true,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRveHJ-00k8d_bW2_MQeTgInZQG2QsPsXN7kQ&s"
+  },
+  {
+    "title": "Mem 10",
+    "upvotes": 3,
+    "downvotes": 4,
+    "isfav": false,
+    "img": "https://wykop.pl/cdn/c3201142/0c6a13783fb5a049c83d8079029c84c26c5bb702e4e9ed66d10d217103ade833,w800.jpg"
+  }
+]
